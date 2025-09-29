@@ -1,3 +1,0 @@
-#INTERFACE             TYPE          IN-BANDWIDTH        OUT-BANDWIDTH
-$NET_IFACE		External
-$VPS_IFACE		Internal
